@@ -6,6 +6,12 @@ updates:
       interval: "weekly"
       day: "wednesday"
 
+  - package-ecosystem: "nuget"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "wednesday"
+
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
